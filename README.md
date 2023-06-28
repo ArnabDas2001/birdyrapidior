@@ -5,7 +5,10 @@ visit the website I made by clicking the link below 👇
 
 https://birdyrapidior.dora.run/
 
+check out the layout I made for this website in Figma 👇
 
-visit Dora to experience the unique website making style like never before 👇
+https://www.figma.com/file/o9BsBpuQpZhASDZmwkQzJ6/Birds-(website-layout)?type=design&node-id=0%3A1&mode=design&t=HbgRow837uNBElOx-1
+
+visit Dora to experience the unique website-making style like never before 👇
 
 https://www.dora.run/
