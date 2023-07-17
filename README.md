@@ -1,4 +1,4 @@
-# Bird_rapidior
+# Birdy_rapidior
 
 ![Bird_face](https://github.com/ArnabDas2001/birdyrapidior/assets/102038057/a1f95724-3e4b-4cfa-bd73-e24542f0c312)
 
